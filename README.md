@@ -2,10 +2,10 @@
 
 Python script that downloades the provided instagram user's avatar in highest quality.
 
-### HOW TO USE:
+### USAGE:
 `python instagram_avatar.py [Instagram Username] [Download Directory]`
 
-NOTE: Script downloads the default instagram avatar to the current users desktop by default.To change the download directory it needs to be provided as an argument.
+**NOTE:** Script downloads the default instagram avatar to the current users desktop by default.To change the download directory it needs to be provided as an argument.
 
 ### Instructions
 
